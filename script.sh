@@ -1,4 +1,4 @@
-echo dasdasd"Sart skryptu"n\
+echo"Sart skryptu"n\
 echo "Pokaż wersję kernela"
 uname -a
 echo "Pokaż wersję Gita:"
