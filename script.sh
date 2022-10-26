@@ -1,9 +1,9 @@
-xecho"Sart skryptu"n\
+echo"Sart skryptu"n\
 echo "Pokaż wersję kernela"
 uname -a
-echo "Pokaż wersję Gita"
+echo "Pokaż wersję Gita:"
 git --version
-echo "Pokaż wersję Basha"
+echo "Pokaż wersję Basha:"
 bash --version
 echo "Koniec!"
 
